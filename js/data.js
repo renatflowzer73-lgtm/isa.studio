@@ -37,6 +37,13 @@ var MASTERS = [
         ]
       },
       {
+        group: "Удаление перманентного макияжа/татуажа",
+        items: [
+          ["Лазерное удаление", "1 800 ₽"],
+          ["Удаление ремувером", "2 000 ₽"]
+        ]
+      },
+      {
         group: "Тридинг",
         note: "Тридинг — восточный метод удаления волос с лица с помощью нити, которым владеет не каждый! Быстро, чисто и на длительный срок.",
         items: [
@@ -66,6 +73,15 @@ var MASTERS = [
           "assets/masters/sabina-lips-04.jpg",
           "assets/masters/sabina-lips-05.jpg",
           "assets/masters/sabina-lips-06.jpg"
+        ]
+      },
+      {
+        title: "Лазерное удаление",
+        shots: [
+          "assets/masters/sabina-laser-01.jpg",
+          "assets/masters/sabina-laser-02.jpg",
+          "assets/masters/sabina-laser-03.jpg",
+          "assets/masters/sabina-laser-04.jpg"
         ]
       }
     ]
